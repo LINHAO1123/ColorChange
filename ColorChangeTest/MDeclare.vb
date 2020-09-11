@@ -1,0 +1,3 @@
+﻿Module MDeclare
+
+End Module

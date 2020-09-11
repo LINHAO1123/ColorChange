@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ColorValves>
+  <Base1>
+    <ColorValve>
+      <ValveNumber>1</ValveNumber>
+      <Description>Yellow  BASF</Description>
+    </ColorValve>
+    <ColorValve>
+      <ValveNumber>2</ValveNumber>
+      <Description>Brown  BASF</Description>
+    </ColorValve>
+    <ColorValve>
+      <ValveNumber>3</ValveNumber>
+      <Description>Color 03</Description>
+    </ColorValve>
+    <ColorValve>
+      <ValveNumber>4</ValveNumber>
+      <Description>Silver PPG  </Description>
+    </ColorValve>
+    <ColorValve>
+      <ValveNumber>5</ValveNumber>
+      <Description>White  PPG  18  5</Description>
+    </ColorValve>
+    <ColorValve>
+      <ValveNumber>6</ValveNumber>
+      <Description>Color 06</Description>
+    </ColorValve>
+    <ColorValve>
+      <ValveNumber>7</ValveNumber>
+      <Description>White  PPG</Description>
+    </ColorValve>
+    <ColorValve>
+      <ValveNumber>8</ValveNumber>
+      <Description>Color 08</Description>
+    </ColorValve>
+    <ColorValve>
+      <ValveNumber>9</ValveNumber>
+      <Description>Color 09</Description>
+    </ColorValve>
+    <ColorValve>
+      <ValveNumber>10</ValveNumber>
+      <Description>Black  BASF</Description>
+    </ColorValve>
+    <ColorValve>
+      <ValveNumber>11</ValveNumber>
+      <Description>Gray BASF</Description>
+    </ColorValve>
+    <ColorValve>
+      <ValveNumber>12</ValveNumber>
+      <Description>Color 12</Description>
+    </ColorValve>
+    <ColorValve>
+      <ValveNumber>13</ValveNumber>
+      <Description>Color 13</Description>
+    </ColorValve>
+    <ColorValve>
+      <ValveNumber>14</ValveNumber>
+      <Description>Color 14</Description>
+    </ColorValve>
+    <ColorValve>
+      <ValveNumber>15</ValveNumber>
+      <Description>Color 15</Description>
+    </ColorValve>
+    <ColorValve>
+      <ValveNumber>16</ValveNumber>
+      <Description>Color 16</Description>
+    </ColorValve>
+    <ColorValve>
+      <ValveNumber>17</ValveNumber>
+      <Description>Color 17        </Description>
+    </ColorValve>
+    <ColorValve>
+      <ValveNumber>18</ValveNumber>
+      <Description>Color 18        </Description>
+    </ColorValve>
+    <ColorValve>
+      <ValveNumber>19</ValveNumber>
+      <Description>Color 19        </Description>
+    </ColorValve>
+    <ColorValve>
+      <ValveNumber>20</ValveNumber>
+      <Description>Color 20       </Description>
+    </ColorValve>
+    <ColorValve>
+      <ValveNumber>21</ValveNumber>
+      <Description>Color 21</Description>
+    </ColorValve>
+    <ColorValve>
+      <ValveNumber>22</ValveNumber>
+      <Description>Color 22</Description>
+    </ColorValve>
+    <ColorValve>
+      <ValveNumber>23</ValveNumber>
+      <Description>Color 23</Description>
+    </ColorValve>
+    <ColorValve>
+      <ValveNumber>24</ValveNumber>
+      <Description>Star Blue BASF</Description>
+    </ColorValve>
+  </Base1>
+</ColorValves>
