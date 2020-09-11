@@ -23,15 +23,7 @@ Public Class FrmColorChange
         End Set
     End Property
 
-    'Private Sub mPLC1_NewData(ByVal ZoneName As String, ByVal TagName As String, _
-    '                                                 ByVal Data() As String) Handles mPLC.NewData
 
-    '    Dim sPLCData() As String
-    '    sPLCData = Data
-    '    PLCData = sPLCData
-    '    'frmProcess.lblProcessValue.Text = sPLCData(0)
-
-    'End Sub
 
     Private Sub frmColorChange_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
         Dim stag(4) As String
